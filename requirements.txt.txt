@@ -1,0 +1,9 @@
+numpy
+pandas
+yfinance
+matplotlib
+scipy
+plotly
+ipywidgets>=8
+notebook
+jupyterlab
