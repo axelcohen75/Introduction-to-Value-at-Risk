@@ -1,11 +1,9 @@
 # Introduction to Value at Risk
 
-This repository contains my Jupyter notebook project on Value at Risk.
+HTML version of the project: https://axelcohen75.github.io/Introduction-to-Value-at-Risk/
 
-## Open the notebook
-- `Introduction to Value At Risk.ipynb`
+**Warning:** the online version only contains screenshots of the interactive charts. To fully use the interactive graphs and widgets, you need to download and run the notebook locally.
 
-## Run it interactively
-Click the Binder badge below to launch the notebook in a live Jupyter environment.
+This project provides a short introduction to Value at Risk (VaR), a common risk management metric used to estimate potential portfolio losses over a given time horizon and confidence level.
 
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/axelcohen75/Introduction-to-Value-at-Risk/HEAD?labpath=Introduction%20to%20Value%20At%20Risk.ipynb)
+The work includes brief theoretical explanations, market data analysis, and visualizations to illustrate how VaR can be interpreted and applied in practice.
